@@ -6,6 +6,7 @@ class Proxy
 
     public function __construct()
     {
+        return 'hello';
     }
 
     public function getListCount()
